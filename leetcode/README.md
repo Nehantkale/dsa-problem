@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0057-insert-interval) |
 <!---LeetCode Topics End-->
