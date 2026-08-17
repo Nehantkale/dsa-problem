@@ -19,4 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0057-insert-interval) |
+| [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
+## Two Pointers
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
+## Sweep Line
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
