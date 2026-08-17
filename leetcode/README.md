@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
