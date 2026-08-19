@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0739-daily-temperatures) |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
@@ -97,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
