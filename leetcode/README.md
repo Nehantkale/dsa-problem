@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0057-insert-interval) |
 | [0136-single-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0136-single-number) |
 | [0503-next-greater-element-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0503-next-greater-element-ii) |
@@ -71,9 +72,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0056-merge-intervals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0056-merge-intervals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
