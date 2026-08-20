@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0520-detect-capital) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
