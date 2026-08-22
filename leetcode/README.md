@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0739-daily-temperatures) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
 | [1603-running-sum-of-1d-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
@@ -124,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -144,8 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
