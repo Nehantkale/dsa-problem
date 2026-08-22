@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
 | [1603-running-sum-of-1d-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1603-running-sum-of-1d-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
 ## Two Pointers
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
