@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
 | [1603-running-sum-of-1d-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
+| [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
