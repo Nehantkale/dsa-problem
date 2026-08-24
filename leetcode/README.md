@@ -116,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
