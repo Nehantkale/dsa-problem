@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
+| [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0409-longest-palindrome) |
@@ -90,14 +92,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0136-single-number) |
+| [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
