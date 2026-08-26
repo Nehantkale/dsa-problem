@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0503-next-greater-element-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0136-single-number) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -190,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
