@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0739-daily-temperatures) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0748-largest-number-at-least-twice-of-others) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1288-maximum-subarray-sum-with-one-deletion) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0748-largest-number-at-least-twice-of-others) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
