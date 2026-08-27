@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
 ## Recursion
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
