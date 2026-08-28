@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
