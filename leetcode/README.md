@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
 ## Pigeonhole Principle
 |  |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
