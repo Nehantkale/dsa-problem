@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2470-removing-stars-from-a-string) |
 | [4179-largest-even-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4179-largest-even-number) |
 ## Stack
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0136-single-number) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
