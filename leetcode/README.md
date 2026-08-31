@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0520-detect-capital) |
+| [0782-jewels-and-stones](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 ## Sliding Window
