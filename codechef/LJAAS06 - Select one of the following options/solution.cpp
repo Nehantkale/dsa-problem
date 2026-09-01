@@ -1,0 +1,1 @@
+To print the string named num, you directly use System.out.println(variable_name);
