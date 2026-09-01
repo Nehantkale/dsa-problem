@@ -1,0 +1,1 @@
+The code subtracts 3 from 10 and outputs the result.
