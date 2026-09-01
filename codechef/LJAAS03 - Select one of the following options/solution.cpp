@@ -1,0 +1,1 @@
+The correct syntax for printing in Java is "System.out.println(value);"
