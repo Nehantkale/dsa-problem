@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
