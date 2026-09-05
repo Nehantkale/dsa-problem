@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 ## Monotonic Stack
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0724-find-pivot-index) |
