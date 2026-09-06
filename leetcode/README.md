@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
