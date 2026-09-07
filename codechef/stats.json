@@ -128,17 +128,26 @@
         "tier": "1★ Beginner Level"
       },
       "LJAAS17 - Select one of the following options": {
+        "category": "star1",
+        "date": "2026-09-07T13:21:28.369Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "LJAAS18 - Select one of the following options": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-07T13:21:28.369Z"
+        "date": "2026-09-07T13:22:09.020Z"
       }
     },
-    "solved": 15,
-    "star1": 15,
+    "solved": 16,
+    "star1": 16,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
