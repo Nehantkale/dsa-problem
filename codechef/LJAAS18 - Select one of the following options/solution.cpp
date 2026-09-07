@@ -1,0 +1,1 @@
+" " can be used to separate multiple outputs on the same line, or they can be printed as a single string
