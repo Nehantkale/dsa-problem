@@ -1,42 +1,34 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int n = nums.length;
+
         int low = 0;
-        int high = n - 1;
+        int high = nums.length - 1;
 
         while (low <= high) {
 
-            int guess = low + (high - low) / 2;
+            int mid = low + (high - low) / 2;
 
-            if (nums[guess] == target) {
-                return guess;
+            if (nums[mid] == target) {
+                return mid;
             }
 
-            // guess is in the left/high section
-            if (nums[guess] > nums[n - 1]) {
+            // Left half is sorted
+            if (nums[low] <= nums[mid]) {
 
-                if (target > nums[guess]) {
-                    low = guess + 1;
-                }
-                else if (target >= nums[0]) {
-                    high = guess - 1;
-                }
-                else {
-                    low = guess + 1;
+                if (nums[low] <= target && target < nums[mid]) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
                 }
 
             }
-            // guess is in the right/low section
+            // Right half is sorted
             else {
 
-                if (target < nums[guess]) {
-                    high = guess - 1;
-                }
-                else if (target <= nums[n - 1]) {
-                    low = guess + 1;
-                }
-                else {
-                    high = guess - 1;
+                if (nums[mid] < target && target <= nums[high]) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
                 }
             }
         }
