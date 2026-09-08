@@ -1,0 +1,1 @@
+A double variable is declared by specifying the data type (double), followed by the variable name (area), and the initialization value (3.9)
