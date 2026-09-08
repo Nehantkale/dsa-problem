@@ -1,0 +1,1 @@
+The correct syntax to declare a boolean variable is (data type)boolean (variable name)b = (value)false;
