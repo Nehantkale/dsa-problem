@@ -1,0 +1,1 @@
+A Boolean variable can only be assigned one of the two values from true and false;
