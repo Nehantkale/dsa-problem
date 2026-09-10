@@ -287,4 +287,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0175-combine-two-tables) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1327-last-person-to-fit-in-the-bus) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
