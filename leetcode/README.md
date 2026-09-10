@@ -285,5 +285,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0175-combine-two-tables) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1327-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
