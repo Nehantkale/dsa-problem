@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0206-reverse-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
