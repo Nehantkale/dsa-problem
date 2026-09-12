@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0748-largest-number-at-least-twice-of-others) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1288-maximum-subarray-sum-with-one-deletion) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 ## Queue
 |  |
 | ------- |
