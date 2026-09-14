@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
+| [0866-rectangle-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [4245-count-commas-in-range](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4248-count-commas-in-range-ii) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
