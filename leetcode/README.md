@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2470-removing-stars-from-a-string) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4179-largest-even-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4179-largest-even-number) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sweep Line
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1288-maximum-subarray-sum-with-one-deletion) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 ## Queue
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0409-longest-palindrome) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quickselect
 |  |
 | ------- |
