@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0792-binary-search) |
+| [0864-image-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0864-image-overlap) |
 | [0907-koko-eating-bananas](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 | [1028-interval-list-intersections](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1028-interval-list-intersections) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0866-rectangle-overlap) |
+## Matrix
+|  |
+| ------- |
+| [0864-image-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0864-image-overlap) |
 <!---LeetCode Topics End-->
