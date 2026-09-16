@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0633-sum-of-square-numbers) |
 | [0866-rectangle-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4248-count-commas-in-range-ii) |
 ## Binary Search
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1603-running-sum-of-1d-array) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0954-maximum-sum-circular-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1288-maximum-subarray-sum-with-one-deletion) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0864-image-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
