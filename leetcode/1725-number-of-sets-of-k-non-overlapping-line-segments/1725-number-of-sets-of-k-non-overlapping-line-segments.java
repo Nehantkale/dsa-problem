@@ -1,49 +1,42 @@
 class Solution {
-    static final long MOD = 1_000_000_007L;
+    static final int MOD = 1_000_000_007;
 
     public int numberOfSets(int n, int k) {
-        int N = n + k - 1;
-        int R = 2 * k;
 
-        long[] fact = new long[N + 1];
-        long[] invFact = new long[N + 1];
+        long[][] dp = new long[n][k + 1];
+        long[][] open = new long[n][k + 1];
 
-        // factorial
-        fact[0] = 1;
+        // At point 0:
+        // 0 segments = 1 way
+        dp[0][0] = 1;
 
-        for (int i = 1; i <= N; i++) {
-            fact[i] = fact[i - 1] * i % MOD;
-        }
+        for (int i = 1; i < n; i++) {
 
-        // inverse factorial
-        invFact[N] = power(fact[N], MOD - 2);
+            for (int j = 0; j <= k; j++) {
 
-        for (int i = N - 1; i >= 0; i--) {
-            invFact[i] = invFact[i + 1] * (i + 1) % MOD;
-        }
+                // Do nothing with point i
+                dp[i][j] = dp[i - 1][j];
 
-        // C(N, R)
-        long ans = fact[N];
+                // If a segment is currently open,
+                // extend it to point i
+                if (j > 0) {
+                    open[i][j] = open[i - 1][j];
+                }
 
-        ans = ans * invFact[R] % MOD;
-        ans = ans * invFact[N - R] % MOD;
+                // Start a new segment at point i
+                if (j > 0) {
+                    open[i][j] += dp[i - 1][j - 1];
+                }
 
-        return (int) ans;
-    }
+                open[i][j] %= MOD;
 
-    // Fast modular exponentiation
-    private long power(long a, long b) {
-        long result = 1;
+                // Close the currently open segment at i
+                dp[i][j] += open[i][j];
 
-        while (b > 0) {
-            if ((b & 1) == 1) {
-                result = result * a % MOD;
+                dp[i][j] %= MOD;
             }
-
-            a = a * a % MOD;
-            b >>= 1;
         }
 
-        return result;
+        return (int) dp[n - 1][k];
     }
 }
