@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4245-count-commas-in-range](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4248-count-commas-in-range-ii) |
 ## Binary Search
