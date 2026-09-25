@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
+| [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
+| [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2470-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0782-jewels-and-stones) |
+| [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0748-largest-number-at-least-twice-of-others) |
+| [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -341,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
