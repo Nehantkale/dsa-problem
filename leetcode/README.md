@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0292-nim-game) |
