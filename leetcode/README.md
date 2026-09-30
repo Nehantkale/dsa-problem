@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1258-article-views-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1415-students-and-examinations) |
