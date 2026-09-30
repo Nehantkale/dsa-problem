@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
 | [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2470-removing-stars-from-a-string) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0020-valid-parentheses) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
