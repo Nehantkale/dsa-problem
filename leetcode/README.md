@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0175-combine-two-tables) |
 | [0185-department-top-three-salaries](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0185-department-top-three-salaries) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0595-big-countries) |
