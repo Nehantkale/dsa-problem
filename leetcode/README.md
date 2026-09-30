@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1258-article-views-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1327-last-person-to-fit-in-the-bus) |
+| [1415-students-and-examinations](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1908-recyclable-and-low-fat-products) |
 ## Tree
