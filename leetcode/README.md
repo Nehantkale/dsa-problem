@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0344-reverse-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1128-remove-all-adjacent-duplicates-in-string) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0122-best-time-to-buy-and-sell-stock-ii) |
