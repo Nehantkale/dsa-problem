@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
@@ -383,10 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 ## Manacher
 |  |
