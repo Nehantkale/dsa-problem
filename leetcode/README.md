@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2470-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quickselect
 |  |
