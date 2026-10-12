@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1297-maximum-number-of-balloons) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2427-first-letter-to-appear-twice) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Quickselect
 |  |
 | ------- |
