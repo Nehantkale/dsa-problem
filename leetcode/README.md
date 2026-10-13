@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
 | ------- |
