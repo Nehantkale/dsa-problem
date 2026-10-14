@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4248-count-commas-in-range-ii) |
 ## Binary Search
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4084-maximize-sum-of-squares-of-digits) |
 ## Quickselect
 |  |
 | ------- |
