@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2058-concatenation-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1046-max-consecutive-ones-iii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/0748-largest-number-at-least-twice-of-others) |
 | [1188-brace-expansion-ii](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/1188-brace-expansion-ii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2042-maximum-product-difference-between-two-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Quicksort
