@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2470-removing-stars-from-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4179-largest-even-number](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4179-largest-even-number) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/Nehantkale/dsa-problem/tree/master/LeetCode/4220-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
